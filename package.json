@@ -1,0 +1,35 @@
+{
+  "name": "getprops",
+  "version": "1.0.0",
+  "description": "adds Object.getPropertyDescriptor and Object.getPropertyNames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    {
+      "name": "Andrea Giammarchi",
+      "email": "andrea.giammarchi@gmail.com"
+    },
+    {
+      "name": "Paolo Fragomeni",
+      "email": "paolo@async.ly"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hij1nx/getprops.git"
+  },
+  "keywords": [
+    "Object",
+    "object",
+    "getPropertyDescriptor",
+    "getPropertyNames"
+  ],
+  "author": "WebReflection",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hij1nx/getprops/issues"
+  },
+  "homepage": "https://github.com/hij1nx/getprops"
+}
